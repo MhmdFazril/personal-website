@@ -44,7 +44,7 @@ export default function Contact() {
           </div>
           <div className="flex justify-center">
             <a
-              href="./public/CV_Muhamad Fazril Maulana.pdf"
+              href="/CV_Muhamad Fazril Maulana.pdf"
               target="blank"
               className="text-base my-8 text-[#06051A] border-[#06051A] border-2 hover:bg-[#06051A] p-2 hover:text-white rounded-md transition"
             >
