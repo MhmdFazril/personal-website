@@ -39,7 +39,7 @@ export default function Header() {
         </section>
         <section className="absolute md:static bottom-0 flex justify-center w-full">
           <img
-            src="img/profile.jpeg"
+            src="img/profile.png"
             alt="profile"
             className="w-1/2 sm:w-64 xl:w-[430px]"
           />
