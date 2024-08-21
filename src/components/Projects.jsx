@@ -230,6 +230,81 @@ export default function Projects() {
             </a>
           </div>
         </div>
+        {/* card project 7*/}
+        <div className="bg-[#06051A] max-w-80 sm:max-w-96 md:max-w-[400px] rounded-md hover:-translate-y-2 transition shadow-xl">
+          <div className="rounded-md">
+            <div className="rounded-md max-w-80 sm:max-w-96 md:max-w-[400px] overflow-hidden">
+              <img src="img/project7.jpeg" alt="" className="object-cover" />
+            </div>
+          </div>
+          <p className="text-white text-sm sm:text-base p-2 mt-1">
+            Web-based application for smart locker access and sentiment analysis
+          </p>
+          <div className="flex gap-2 mb-2 ml-2">
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img src="img/html.png" alt="html" className="object-cover" />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/tailwindcss.png"
+                alt="tailwindcss"
+                className="object-cover"
+              />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/laravel.png"
+                alt="laravel"
+                className="object-cover"
+              />
+            </div>
+            <a
+              href="https://github.com/AIoTech-TIK-PNJ-2024/Smart_Locker_Website"
+              className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+            >
+              <p>See repo</p>
+            </a>
+          </div>
+        </div>
+        {/* card project 8*/}
+        <div className="bg-[#06051A] max-w-80 sm:max-w-96 md:max-w-[400px] rounded-md hover:-translate-y-2 transition shadow-xl">
+          <div className="rounded-md">
+            <div className="rounded-md max-w-80 sm:max-w-96 md:max-w-[400px] overflow-hidden">
+              <img src="img/project8.jpeg" alt="" className="object-cover" />
+            </div>
+          </div>
+          <p className="text-white text-sm sm:text-base p-2 mt-1">
+            Web-based CMS application for managing books
+          </p>
+          <div className="flex gap-2 mb-2 ml-2">
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img src="img/html.png" alt="html" className="object-cover" />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/tailwindcss.png"
+                alt="tailwindcss"
+                className="object-cover"
+              />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/laravel.png"
+                alt="laravel"
+                className="object-cover"
+              />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img src="img/js.png" alt="js" className="object-cover" />
+            </div>
+            <a
+              href="https://github.com/MhmdFazril/Digital_Perpustakaan"
+              className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+            >
+              <p>See repo</p>
+            </a>
+          </div>
+        </div>
       </div>
     </section>
   );

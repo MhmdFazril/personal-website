@@ -15,23 +15,24 @@ export default function Header() {
             website development and mobile development
           </p>
           <div className="flex gap-6 md:mt-5 mt-2">
-            <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition">
+            <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition cursor-pointer">
               Website
             </div>
-            <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition">
+            <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition cursor-pointer">
               Mobile
             </div>
           </div>
           <a
-            href="#project"
+            href="/CV_Muhamad Fazril Maulana.pdf"
+            target="blank"
             className="px-3 py-1 bg-blue-700 text-white rounded-md md:mt-9 hover:-translate-y-1 transition hidden md:inline-block sm:mt-5"
           >
-            See my Projects
+            Curriculum Vitae
             <img
               src="img/arrow.png"
               alt="arrow"
               width="30px"
-              className="inline-block"
+              className="inline-block ms-2"
             />
           </a>
         </section>
