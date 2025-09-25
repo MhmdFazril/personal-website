@@ -16,7 +16,7 @@ export default function Contact() {
           >
             Muhamad Fazril Maulana
           </h1>
-          <p className="text-[#06051A] text-base">Web dev &amp; Mobile dev</p>
+          <p className="text-[#06051A] text-base">Website developer</p>
           <p className="text-[#06051A] text-base mt-5">
             Email : mfazrilmaulana@gmail.com
           </p>
@@ -26,20 +26,23 @@ export default function Contact() {
             <a
               href="https://www.instagram.com/mhmd_fazrill/"
               className="hover:-translate-y-1 transition"
+              target="blank"
             >
               <img src="img/instagram.png" alt="instagram" className="w-12" />
             </a>
             <a
               href="https://www.linkedin.com/in/muhamad-fazril/"
               className="hover:-translate-y-1 transition"
+              target="blank"
             >
-              <img src="img/linkedin.png" alt="instagram" className="w-12" />
+              <img src="img/linkedin.png" alt="linkedin" className="w-12" />
             </a>
             <a
               href="https://github.com/MhmdFazril"
               className="hover:-translate-y-1 transition"
+              target="blank"
             >
-              <img src="img/github.png" alt="instagram" className="w-12" />
+              <img src="img/github.png" alt="github" className="w-12" />
             </a>
           </div>
           <div className="flex justify-center">

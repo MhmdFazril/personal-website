@@ -11,17 +11,16 @@ export default function Header() {
             Muhamad Fazril Maulana
           </h1>
           <p className="text-sm sm:text-lg xl:text-xl md:mt-6">
-            I am an information engineering student who has an interest in
-            website development and mobile development
+            Fresh graduate in Information Engineering with a focus on website development, ready to grow and contribute as a web developer.
           </p>
-          <div className="flex gap-6 md:mt-5 mt-2">
+          {/* <div className="flex gap-6 md:mt-5 mt-2">
             <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition cursor-pointer">
               Website
             </div>
             <div className="px-2 py-[2px] sm:text-md xl:text-xl border-white border-2 rounded-md hover:bg-white hover:text-black transition cursor-pointer">
               Mobile
             </div>
-          </div>
+          </div> */}
           <a
             href="/CV_Muhamad Fazril Maulana.pdf"
             target="blank"

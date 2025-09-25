@@ -58,18 +58,6 @@ export default function Skills() {
         </div>
         <div className="relative group">
           <div className="bg-white max-w-28 sm:max-w-32 rounded-md flex items-center absolute group-hover:-translate-x-1 group-hover:-translate-y-1 transition z-10 p-2">
-            <img src="img/kotlin.png" alt="html" className="w-52" />
-          </div>
-          <div className="max-w-28 sm:max-w-32 bg-slate-300 rounded-md border-white border-2 group-hover:translate-x-1 group-hover:translate-y-1 transition">
-            <img
-              src="img/bootstrap.png"
-              alt="html"
-              className="w-52 opacity-0"
-            />
-          </div>
-        </div>
-        <div className="relative group">
-          <div className="bg-white max-w-28 sm:max-w-32 rounded-md flex items-center absolute group-hover:-translate-x-1 group-hover:-translate-y-1 transition z-10 p-2">
             <img src="img/mysql.png" alt="html" className="w-52" />
           </div>
           <div className="max-w-28 sm:max-w-32 bg-slate-300 rounded-md border-white border-2 group-hover:translate-x-1 group-hover:translate-y-1 transition">

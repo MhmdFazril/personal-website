@@ -44,6 +44,7 @@ export default function Projects() {
               href="https://github.com/MhmdFazril/aplikasiujianonline"
               target="_blank"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -81,6 +82,7 @@ export default function Projects() {
               href="https://github.com/MhmdFazril/food-website"
               target="_blank"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -151,6 +153,7 @@ export default function Projects() {
               href="https://github.com/MhmdFazril/food-website"
               target="_blank"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -188,6 +191,7 @@ export default function Projects() {
               href="https://github.com/MhmdFazril/Galery-App"
               target="_blank"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -225,6 +229,7 @@ export default function Projects() {
               href="https://github.com/MhmdFazril/To-do-list-app"
               target="_blank"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -261,6 +266,7 @@ export default function Projects() {
             <a
               href="https://github.com/AIoTech-TIK-PNJ-2024/Smart_Locker_Website"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
@@ -300,6 +306,47 @@ export default function Projects() {
             <a
               href="https://github.com/MhmdFazril/Digital_Perpustakaan"
               className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
+            >
+              <p>See repo</p>
+            </a>
+          </div>
+        </div>
+        {/* card project 9*/}
+        <div className="bg-[#06051A] max-w-80 sm:max-w-96 md:max-w-[400px] rounded-md hover:-translate-y-2 transition shadow-xl">
+          <div className="rounded-md">
+            <div className="rounded-md max-w-80 sm:max-w-96 md:max-w-[400px] overflow-hidden">
+              <img src="img/project9.jpeg" alt="" className="object-cover" />
+            </div>
+          </div>
+          <p className="text-white text-sm sm:text-base p-2 mt-1">
+            Learning Management System for SMK Grafika Yayasan Lektur
+          </p>
+          <div className="flex gap-2 mb-2 ml-2">
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img src="img/html.png" alt="html" className="object-cover" />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/tailwindcss.png"
+                alt="tailwindcss"
+                className="object-cover"
+              />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img
+                src="img/laravel.png"
+                alt="laravel"
+                className="object-cover"
+              />
+            </div>
+            <div className="w-10 sm:w-12 p-1 flex items-center">
+              <img src="img/js.png" alt="js" className="object-cover" />
+            </div>
+            <a
+              href="https://github.com/MhmdFazril/lms-auto-grading"
+              className="bg-blue-700 text-center flex justify-center items-center px-2 rounded-md ml-9 hover:border-blue-700 hover:border-2 transition hover:bg-[#06051A]"
+              target="blank"
             >
               <p>See repo</p>
             </a>
